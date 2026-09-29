@@ -2,7 +2,7 @@
 Back-end com duas coleções mockup Json clientes e pedidos, CRUD, para aprender, MVC e UML diagrama de classes
 
 ## Diagrama 
-![UML DC](./doc)
+![UML DC](./docs/uml_dc.png)
 
 ## Tecnologias 
 -Node.js
@@ -16,4 +16,4 @@ Back-end com duas coleções mockup Json clientes e pedidos, CRUD, para aprender
 '''bash
 npm install
 npm run dev
-'''"# sesi_senai_pbe1_aula08_pedidos_mvc_uml_dc_2026" 
+''' 
